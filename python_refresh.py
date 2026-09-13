@@ -1,9 +1,3 @@
-"""
-Python Refresh- Task 1
-Read this top to bottom like a lecture. Every block is commented to explain
-WHY it works, not just what it does. Then run it yourself:
-    python python_refresh.py
-"""
 
 import os
 
