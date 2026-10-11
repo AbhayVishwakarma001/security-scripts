@@ -6,9 +6,12 @@ Python practice scripts, built while learning scripting for security work.
 
 ## Contents
 
-- `failed_login_parser.py` : parses an SSH-style auth log and counts failed password attempts per source IP
-- `sample_auth.log` — Sanitized sample authentication log used to test failed-login parser; contains sample data, not real logs.
-- `api_json_demo.py` — Demonstrates fetching JSON data from GitHub's public API and parsing the response in Python.
+## Files
+
+- `failed_login_parser.py` — Parses SSH-style authentication logs, counts failed password attempts per source IP, and flags IPs with four or more failures.
+- `sample_auth.log` — Provides sanitized sample authentication-log entries for testing the parser.
+- `api_json_demo.py` — Fetches JSON data from GitHub's public API and parses the response in Python.
+- `python_refresh.py` — Practices Python fundamentals, including variables, data types, loops, functions, threshold comparisons, and file I/O.
 
 ## Note
 
